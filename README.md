@@ -29,5 +29,5 @@ make
 ## Çalıştırma Talimatları
 
 ```bash
-./odev.c giris.dat cikis.dat
+./odev.c giris.dat
 ```
