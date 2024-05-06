@@ -2,8 +2,8 @@
 
 ## Proje Ekibi
 
-- [Moataz Armash], [G201210584]
-- [Enes Samet Aydı], [G201210078]
+- [Moataz Armash]
+- [Enes Samet Aydı]
 
 ## Amaç
 
@@ -16,7 +16,6 @@ Bu proje, libfdr kütüphanesini kullanarak C dilinde metin dosyalarını işlem
 - Makefile
 - README.md
 - Örnek giriş ve çıkış dosyaları: `giris.dat`, `cikis.dat`
-- Dokümantasyon: `Rapor.pdf`
 
 ## Derleme Talimatları
 
