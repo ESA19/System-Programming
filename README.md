@@ -1,4 +1,4 @@
-# Sistem Programlama Projesi: Metin İşleyici
+# Metin İşleyici
 
 ## Proje Ekibi
 
