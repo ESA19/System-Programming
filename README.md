@@ -2,8 +2,8 @@
 
 ## Proje Ekibi
 
-- [Moataz Armash]
-- [Enes Samet Aydı]
+- [Moataz Armash] [https://github.com/moataz-armash]
+- [Enes Samet Aydı] [https://github.com/ESA19]
 
 ## Amaç
 
